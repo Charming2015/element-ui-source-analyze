@@ -35,6 +35,7 @@
 
 ### 计划步骤
 
+```
 week1:
  ✔ 基本架构 @done (20-09-06 17:16)
  ✔ 输出原理 @done (20-09-11 17:15)
@@ -125,4 +126,7 @@ week11:
   ☐ backtop
   ☐ infiniteScroll
   ☐ drawer
+```
+
+
 
