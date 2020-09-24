@@ -55,10 +55,11 @@ week1:
  ✔ button @done (20-09-11 17:19)
  ✔ link @done (20-09-11 18:00)
 
+
 week2:
  ✔ radio @done (20-09-15 20:54)
- ☐ checkbox
- ☐ input
+ ✔ checkbox @done (20-09-17 17:45)
+ ✔ input @done (20-09-24 22:14)
  ☐ inputNumber
  ☐ select
 
@@ -126,6 +127,11 @@ week11:
   ☐ backtop
   ☐ infiniteScroll
   ☐ drawer
+
+week12:
+week13:
+week14:
+
 ```
 
 
