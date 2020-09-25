@@ -36,7 +36,7 @@
 ### 计划步骤
 
 ```
-week1:
+week1（9.6-9.12）:
  ✔ 基本架构 @done (20-09-06 17:16)
  ✔ 输出原理 @done (20-09-11 17:15)
  ✔ 启动原理：dev & dev：play @done (20-09-11 10:19)
@@ -56,15 +56,15 @@ week1:
  ✔ link @done (20-09-11 18:00)
 
 
-week2:
+week2（9.13-9.19）:
  ✔ radio @done (20-09-15 20:54)
  ✔ checkbox @done (20-09-17 17:45)
  ✔ input @done (20-09-24 22:14)
- ☐ inputNumber
+ ✔ inputNumber @done (20-09-25 15:26)
  ☐ select
 
 
-week3:
+week3（9.20-9.30）:
  ☐ cascader
  ☐ switch
  ☐ slider
